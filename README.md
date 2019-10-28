@@ -1,4 +1,4 @@
-# Implementing-BERT-language-model
+# Implementing BERT Language Model
 
 BERT stands for 'Bidirectional Encoder Representations from Transformers'. BERT is designed to pretrain deep bidirectional representations 
 from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be 
