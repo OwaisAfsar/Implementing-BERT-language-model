@@ -12,6 +12,6 @@ language inference, without substantial taskspecific architecture modifications.
 * Go into the outputs/'Name' directory where the fine tuned models will be saved. There, you should find 3 files; config.json, 
   pytorch_model.bin, vocab.txt.
 * Archive the two files (I use 7zip for archiving) config.json, and pytorch_model.bin into a .tar file.
-* Compress the .tar file into gzip format. Now the file should be something like yelp.tar.gz
+* Compress the .tar file into gzip format. Now the file should be something like OLID.tar.gz
 * Copy the compressed file into the cache/ directory. i.e. We will load this fine tuned model in the next step.
 * The result will be save in reports folder in .txt format.
